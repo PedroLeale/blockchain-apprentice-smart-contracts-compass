@@ -1,0 +1,6 @@
+[submodule "2 - Projetos/1 - Smart Money/lib/forge-std"]
+	path = 2 - Projetos/1 - Smart Money/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "2 - Projetos/2 - Monty Hall/lib/forge-std"]
+	path = 2 - Projetos/2 - Monty Hall/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
